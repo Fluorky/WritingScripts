@@ -1,0 +1,28 @@
+Summary of Reports:
+
+File: raport4.txt
+Date and Time: 2023-11-26 18:43:49
+CPU Usage (last 5 seconds): 13.3%
+
+
+File: raport5.txt
+Date and Time: 2023-11-26 18:43:54
+CPU Usage (last 5 seconds): 22.2%
+
+
+
+
+File: raport2.txt
+Date and Time: 2023-11-26 18:43:39
+CPU Usage (last 5 seconds): 12.0%
+
+
+File: raport3.txt
+Date and Time: 2023-11-26 18:43:44
+CPU Usage (last 5 seconds): 17.9%
+
+
+File: raport1.txt
+Date and Time: 2023-11-26 18:43:34
+CPU Usage (last 5 seconds): 16.7%
+
