@@ -4,16 +4,16 @@ def main():
 
     folder_path = r'/Users/maciej/music'
 
-    # Uzyskaj listę plików w folderze
+    # Get a list of files in the folder
     file_names = os.listdir(folder_path)
 
-    # Utwórz słownik z nazwami plików i ich rozmiarami
+    # Create a dictionary with file names and their sizes
     file_size_dict = {file: os.path.getsize(os.path.join(folder_path, file)) for file in file_names}
 
-    # Posortuj słownik według rozmiarów plików (od największego do najmniejszego)
+    # Sort the dictionary by file sizes (from largest to smallest)
     sorted_file_size_dict = dict(sorted(file_size_dict.items(), key=lambda item: item[1], reverse=True))
 
-    # Wyświetl posortowany słownik
+    # Display the sorted dictionary
     print("Sorted file sizes (from largest to smallest):")
     for file, size in sorted_file_size_dict.items():
         print(f"{file}: {size} bytes")
