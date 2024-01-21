@@ -1,0 +1,4 @@
+2024-01-21 19:06:19,769 - __main__ - DEBUG - To jest komunikat DEBUG.
+2024-01-21 19:06:19,769 - __main__ - INFO - To jest komunikat INFO.
+2024-01-21 19:06:19,769 - __main__ - WARNING - To jest komunikat WARNING.
+2024-01-21 19:06:19,769 - __main__ - ERROR - To jest komunikat ERROR.
